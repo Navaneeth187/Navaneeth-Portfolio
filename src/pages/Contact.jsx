@@ -87,7 +87,7 @@ const Contact = () => {
             <div className="mt-10 pt-8 border-t border-cardBorder relative z-10">
               <p className="text-sm text-textDarker mb-4 font-medium">Profiles</p>
               <div className="flex flex-col gap-3">
-                <a href="https://github.com/navaneethp1407" target="_blank" rel="noopener noreferrer" className="flex items-center justify-between text-sm text-textMuted hover:text-primary transition-colors" aria-label="GitHub Profile">
+                <a href="https://github.com/Navaneeth187" target="_blank" rel="noopener noreferrer" className="flex items-center justify-between text-sm text-textMuted hover:text-primary transition-colors" aria-label="GitHub Profile">
                   <span>GitHub</span>
                   <ArrowUpRight size={16} />
                 </a>

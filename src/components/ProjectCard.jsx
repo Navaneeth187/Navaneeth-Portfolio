@@ -62,7 +62,7 @@ const ProjectCard = ({ id, title, subtitle, type, tagColor, description, tech, s
           
           <div className="flex gap-3">
              <a 
-               href={`https://github.com/navaneethp1407/${id}`} 
+               href={`https://github.com/Navaneeth187/${id}`} 
                target="_blank" 
                rel="noopener noreferrer" 
                className="text-textMuted hover:text-textMain transition-colors focus:outline-none focus:ring-2 focus:ring-primary rounded-sm" 

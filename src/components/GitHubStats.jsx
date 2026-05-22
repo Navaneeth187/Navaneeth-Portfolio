@@ -17,7 +17,7 @@ const GitHubStats = () => {
   const [error, setError] = useState(false);
   const [retryCount, setRetryCount] = useState(0);
 
-  const username = 'navaneethp1407';
+  const username = 'Navaneeth187';
   const CACHE_KEY = `github_data_${username}`;
   const CACHE_TTL = 3600000; // 1 hour in ms
 

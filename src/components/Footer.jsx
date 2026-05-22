@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
           
           <div className="flex gap-6">
-            <a href="https://github.com/navaneethp1407" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-cardBg border border-cardBorder flex items-center justify-center text-textMuted hover:text-primary hover:border-primary transition-all duration-300" aria-label="GitHub Profile">
+            <a href="https://github.com/Navaneeth187" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-cardBg border border-cardBorder flex items-center justify-center text-textMuted hover:text-primary hover:border-primary transition-all duration-300" aria-label="GitHub Profile">
               <Code2 size={20} />
             </a>
             <a href="https://linkedin.com/in/navaneeth-babu-pandiripalli-9b2447287" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-cardBg border border-cardBorder flex items-center justify-center text-textMuted hover:text-primary hover:border-primary transition-all duration-300" aria-label="LinkedIn Profile">
