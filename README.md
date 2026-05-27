@@ -8,7 +8,7 @@
 
 Welcome to the official repository of my production-grade engineering portfolio. This website is designed with a premium, cyberpunk-inspired neon glassmorphic interface, demonstrating state-of-the-art web engineering, physics-based interactions, and integrated intelligent widgets.
 
-🌐 **Live Demo:** [https://github.com/Navaneeth187/Navaneeth-Portfolio](https://github.com/Navaneeth187/Navaneeth-Portfolio)
+🌐 **Live Demo:** [Click Here](https://navaneethp1407.netlify.app/)
 
 ---
 
