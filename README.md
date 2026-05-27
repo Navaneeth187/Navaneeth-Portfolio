@@ -14,7 +14,7 @@ Welcome to the official repository of my production-grade engineering portfolio.
 
 ## 🛠️ The Technical Arsenal (Tech Stack)
 
-* **Core Framework:** React 19 + Vite 8 (with lazy-loaded route splitting)
+* **Core Framework:** React + Vite (optimized with lazy-loaded route-based code splitting)
 * **Styling Engine:** TailwindCSS v3.4 (Custom colors, neon glow tokens, and dark glassmorphic backdrops)
 * **Animation & Physics:** Framer Motion 12 (Responsive layout transitions, float keyframes, and scroll-progress indexing)
 * **Component Icons:** Lucide React
